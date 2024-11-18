@@ -52,8 +52,7 @@ CREATE DATABASE MONDAY_COFEE;
     RATING INT NOT NULL 
     );
 
--- -------------------------------------------------------------------------------------------------------------------------
--- --------------------------------------- REPORTS & DATA ANALYSIS ---------------------------------------------------------
+
 -- QUESTION - 1 
 -- HOW MANY PEOPLE IN EACH CITY ARE ESTIMATED TO CONSUME COFFEE, GIVEN THAT 25% OF THE POPULATION DOES ? 
 
